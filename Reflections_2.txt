@@ -1,0 +1,4 @@
+Test-driven development (TDD)- technika tworzenia oprogramowania, zaliczana do metodyk zwinnych; technika polega na wielokrotnym powtarzaniu kroków:
+1) Programista pisze automatyczny test sprawdzający dodawaną funkcjonalność, test w tym momencie nie powinien się udać.
+2)Implementacja funkcjonalności, w tym momencie wcześniej napisany test powinien się udać.
+3) Refaktoryzacja napisanego kodu, aby spełniał on oczekiwane standardy.
