@@ -1,0 +1,3 @@
+1) W metodyce SCRUM nadawane są ograniczenia np: dzielenie pracy na iteracje, tworzenie zespołów cross-funkcyjnych, określanie w czasie timeboxów;
+e metodyce Kanban jedynie przedstawia się w sposób wizualny przebieg prac i określenie limitów Work in Progres. 
+2) W metodyce Scrum tworzone zgłoszenie automatycznie umieszczane jest w backlogu, później podczas planowania, estymowany jest czas realizacji zadania i przenosi je do odpowiedniego sprinut. W metodyce kandabn zgłoszenie od razu trafia na listę zadań do wykonania. 
