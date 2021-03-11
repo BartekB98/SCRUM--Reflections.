@@ -1,0 +1,1 @@
+BackLog- Jest to spriorytetyzowana lista wszystkich zadań jakie powinny być wykonane, aby otrzymać produkt.Backlog powinien być posortowany na userstories a w późniejszym etapie sprint, na konkretne zadania.  
